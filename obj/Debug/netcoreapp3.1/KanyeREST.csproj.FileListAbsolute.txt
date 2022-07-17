@@ -1,0 +1,15 @@
+F:\repos\KanyeREST\KanyeREST\bin\Debug\netcoreapp3.1\KanyeREST.exe
+F:\repos\KanyeREST\KanyeREST\bin\Debug\netcoreapp3.1\KanyeREST.deps.json
+F:\repos\KanyeREST\KanyeREST\bin\Debug\netcoreapp3.1\KanyeREST.runtimeconfig.json
+F:\repos\KanyeREST\KanyeREST\bin\Debug\netcoreapp3.1\KanyeREST.runtimeconfig.dev.json
+F:\repos\KanyeREST\KanyeREST\bin\Debug\netcoreapp3.1\KanyeREST.dll
+F:\repos\KanyeREST\KanyeREST\bin\Debug\netcoreapp3.1\KanyeREST.pdb
+F:\repos\KanyeREST\KanyeREST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\repos\KanyeREST\KanyeREST\obj\Debug\netcoreapp3.1\KanyeREST.csproj.AssemblyReference.cache
+F:\repos\KanyeREST\KanyeREST\obj\Debug\netcoreapp3.1\KanyeREST.AssemblyInfoInputs.cache
+F:\repos\KanyeREST\KanyeREST\obj\Debug\netcoreapp3.1\KanyeREST.AssemblyInfo.cs
+F:\repos\KanyeREST\KanyeREST\obj\Debug\netcoreapp3.1\KanyeREST.csproj.CoreCompileInputs.cache
+F:\repos\KanyeREST\KanyeREST\obj\Debug\netcoreapp3.1\KanyeREST.csproj.CopyComplete
+F:\repos\KanyeREST\KanyeREST\obj\Debug\netcoreapp3.1\KanyeREST.dll
+F:\repos\KanyeREST\KanyeREST\obj\Debug\netcoreapp3.1\KanyeREST.pdb
+F:\repos\KanyeREST\KanyeREST\obj\Debug\netcoreapp3.1\KanyeREST.genruntimeconfig.cache
